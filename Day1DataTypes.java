@@ -1,5 +1,5 @@
 package com.company;
-import java.util.*;
+import java.util.Scanner;
 
 public class Day1DataTypes {
     public static void main(String[] args) {
@@ -15,6 +15,5 @@ public class Day1DataTypes {
         System.out.println(i + i1);
         System.out.println(d + d1);
         System.out.println(s + s1);
-
     }
 }
